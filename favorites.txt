@@ -13,3 +13,4 @@ Hi i want to learn git pull
 =======
 Ok learn it
 >>>>>>> 6c69ae6ebbacbf09d97a0113ee8beb9a0be9cf34
+u should use the other syntex to see this sentence which is git pull 
